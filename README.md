@@ -1,6 +1,15 @@
 # Arkham-Horror-Campanion
+Welcome to the Arkham Horror Companion Github page! Here you can find information to contact me, instructions on submitting feedback, and info about the app's privacy policy!
 
-Privacy Policy
+## Submitting an issue
+1. Visit https://github.com/Thomaswaldick/Arkham-Horror-Campanion/issues
+2. Click 'New Issue'
+3. Include a title, description, and label (if applicable)
+
+## Contact me
+You can reach me via email at contact@thomaswaldick.com
+
+# Privacy Policy
 
 Thomas Waldick built the Arkham Horror Companion app as a Free app. This SERVICE is provided by Thomas Waldick at no cost and is intended for use as is.
 
